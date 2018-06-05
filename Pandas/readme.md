@@ -4,10 +4,10 @@ Merging, joining, concatenating, operating and input/output through ecel, html, 
 RequiredLink: https://www.fdic.gov/bank/individual/failed/banklist.html
 
 Correct order of Files:
-**Working with Pandas
-Salaries
-example
-Excel_Sample
-Python Drill-1
-Ecommerce Purchases
+**Working with Pandas  
+Salaries  
+example  
+Excel_Sample  
+Python Drill-1  
+Ecommerce Purchases  
 Python Drill-2**
