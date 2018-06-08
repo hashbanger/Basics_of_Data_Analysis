@@ -1,0 +1,5 @@
+**Plotly** and **cufflinks** allow to visualize data dynamically straight through pandas.  
+For changing colorscale in plots reference to the link  
+https://plot.ly/ipython-notebooks/color-scales/
+
+Color schemes are unlike **matplotlib**
