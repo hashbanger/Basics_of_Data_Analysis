@@ -25,6 +25,6 @@ Additional Includes introduction to:
 References from  
 https://www.wikipedia.com/  
 https://www.kaggle.com/  
-https://www.medium.com/
-https://www.superdatascience.com/
+https://www.medium.com/  
+https://www.superdatascience.com/  
 https://www.pieriandata.com/
